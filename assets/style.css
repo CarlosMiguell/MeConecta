@@ -418,7 +418,7 @@
   .row:not(.gx-0):not(.gx-1):not(.gx-2):not(.gx-3):not(.gx-4):not(.gx-5) {
     margin-right: -15px;
     margin-left: -15px;
-    margin: 50px 0 50px 0;
+    margin: 100px 0 30px 0;
   }
   .row:not(.gx-0):not(.gx-1):not(.gx-2):not(.gx-3):not(.gx-4):not(.gx-5) > * {
     padding-right: 15px;
