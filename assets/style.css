@@ -422,6 +422,7 @@
   .row:not(.gx-0):not(.gx-1):not(.gx-2):not(.gx-3):not(.gx-4):not(.gx-5) > * {
     padding-right: 15px;
     padding-left: 15px;
+    display: flex;
   }
   
   h1,
