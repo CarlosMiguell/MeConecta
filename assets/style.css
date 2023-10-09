@@ -965,8 +965,7 @@
   }
   
   .mt-50 {
-    margin-top: 50px !important;
-    margin-bottom: 0 0 120px 0;
+    margin-top: 50px 0 120px 0 !important;
   }
   
   .mt-60 {
