@@ -965,7 +965,7 @@
   }
   
   .mt-50 {
-    margin-top: 50px 0 120px 0 !important;
+    margin: 50px 0 120px 0 !important;
   }
   
   .mt-60 {
@@ -1754,27 +1754,27 @@
   }
   
   /* --------------- section style-4 --------------- */
-  .section-head.style-4 .title_small {
+  .section-head..mt. .title_small {
     font-size: 12px;
     padding: 5px 10px;
     background-color: #f7f4ff;
     border-radius: 5px;
     color: var(--color-blue4);
-    margin-bottom: 20px;
+    
   }
-  .section-head.style-4 h2 {
+  .section-head..mt. h2 {
     font-size: 40px;
     line-height: 1.3;
     color: #fff;
   }
-  .section-head.style-4 h2 span {
+  .section-head..mt.50 h2 span {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-image: -webkit-gradient(linear, left top, right top, from(#501e9c), color-stop(30%, #8169f1), color-stop(30%, #8169f1), color-stop(73%, #a44cee), to(#ff847f));
     background-image: -o-linear-gradient(left, #501e9c 0%, #8169f1 30%, #8169f1 30%, #a44cee 73%, #ff847f 100%);
     background-image: linear-gradient(to right, #501e9c 0%, #8169f1 30%, #8169f1 30%, #a44cee 73%, #ff847f 100%);
   }
-  .section-head.style-4 h5 {
+  .section-head..mt.50 h5 {
     font-size: 16px;
     font-weight: bold;
     color: #a44cee;
@@ -1988,8 +1988,8 @@
        object-fit: cover;
   }
   
-  /* --------------- top navbar style-4 --------------- */
-  .top-navbar.style-4 {
+  /* --------------- top navbar mt.50 --------------- */
+  .top-navbar.mt.50 {
     background-image: url(../img/top_nav_s4.png);
     background-size: cover;
     background-position: top;
@@ -2519,7 +2519,7 @@
             justify-content: center;
   }
   
-  .navbar.style-4 {
+  .navbar.mt.50 {
     position: relative;
     z-index: 99;
     padding: 20px 15px;
@@ -2528,12 +2528,12 @@
     border-top-right-radius: 20px;
     margin-top: -38px;
   }
-  .navbar.style-4 .navbar-brand {
+  .navbar.mt.50 .navbar-brand {
     width: 150px;
     -o-object-fit: contain;
        object-fit: contain;
   }
-  .navbar.style-4 .navbar-nav .nav-item .nav-link {
+  .navbar.mt.50 .navbar-nav .nav-item .nav-link {
     position: relative;
     color: #fff;
     font-size: 12px;
