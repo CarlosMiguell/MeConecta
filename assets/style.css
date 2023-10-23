@@ -1478,6 +1478,7 @@
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+	  margin: 50px;
   }
   .butn span,
   .btn span {
