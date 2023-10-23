@@ -11220,7 +11220,7 @@
       width: 100%;
       margin: 10px 0;
     }
-    footer.style-4 .d-flex .btn.me-4 {
+    footer.style-4 .d-flex .btn.mt-50 {
       margin-right: 0 !important;
     }
     footer.style-4 .foot .links {
@@ -11510,7 +11510,7 @@
   .top-navbar.style-7 .side_links {
       font-size: 8px;
     }
-    .top-navbar.style-7 .me-4 {
+    .top-navbar.style-7 .mt-50 {
       margin-right: 5px !important;
     }
     .navbar.style-7 .navbar-nav,
@@ -11829,7 +11829,7 @@
     header.style-10 .info .butn.btn-icon-circle i, header.style-10 .info .btn.btn-icon-circle i {
       bottom: -6px;
     }
-    header.style-10 .info .me-4 {
+    header.style-10 .info .mt-50 {
       margin-right: 0.5rem !important;
     }
     header.style-10 .logos .logos-content {
