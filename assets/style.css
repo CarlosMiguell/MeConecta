@@ -4385,6 +4385,7 @@
     color: var(--color-blue6);
   }
   .features-card.style-5 .icon {
+    align-items: space-between;
     margin-bottom: 40px;
   }
   .features-card.style-5 .icon img {
